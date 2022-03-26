@@ -9,7 +9,10 @@ int main() {
     scanf("%d %d", &number1, &number2);
 
     // calculating sum
-    sum = number1 + number2;      
+    sum = number1 + number2;   
+    
+     // calculating difference
+    sum = number1 - number2;  
 
     // Multiply number 1 and number 2
     multi = number1 * number1
